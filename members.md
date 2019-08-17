@@ -28,12 +28,12 @@ Format is as given below:
    and any  other details you wish to add. <br />
    
    -------------------------------------------------
- 3.Name: uche odinaka <br />
+3. Name: uche odinaka <br />
    Email: uchiodinaka3191@gmail.com <br />
    Learning Track: data science <br />
    Skills: nil <br />
    Github: @stephany3191 <br />
    and any other details you wish to add. <br />
 
------------------------------------------------ 
+   ----------------------------------------------- 
    
